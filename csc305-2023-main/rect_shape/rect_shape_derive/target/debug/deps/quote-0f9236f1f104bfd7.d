@@ -1,0 +1,11 @@
+C:\Users\maste\OneDrive\Documents\School\Year 3 S1\Operating Systems\csc305-2023-main\rect_shape\rect_shape_derive\target\debug\deps\quote-0f9236f1f104bfd7.rmeta: C:\Users\maste\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quote-1.0.28\src\lib.rs C:\Users\maste\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quote-1.0.28\src\ext.rs C:\Users\maste\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quote-1.0.28\src\format.rs C:\Users\maste\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quote-1.0.28\src\ident_fragment.rs C:\Users\maste\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quote-1.0.28\src\to_tokens.rs C:\Users\maste\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quote-1.0.28\src\runtime.rs C:\Users\maste\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quote-1.0.28\src\spanned.rs
+
+C:\Users\maste\OneDrive\Documents\School\Year 3 S1\Operating Systems\csc305-2023-main\rect_shape\rect_shape_derive\target\debug\deps\quote-0f9236f1f104bfd7.d: C:\Users\maste\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quote-1.0.28\src\lib.rs C:\Users\maste\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quote-1.0.28\src\ext.rs C:\Users\maste\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quote-1.0.28\src\format.rs C:\Users\maste\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quote-1.0.28\src\ident_fragment.rs C:\Users\maste\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quote-1.0.28\src\to_tokens.rs C:\Users\maste\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quote-1.0.28\src\runtime.rs C:\Users\maste\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quote-1.0.28\src\spanned.rs
+
+C:\Users\maste\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quote-1.0.28\src\lib.rs:
+C:\Users\maste\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quote-1.0.28\src\ext.rs:
+C:\Users\maste\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quote-1.0.28\src\format.rs:
+C:\Users\maste\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quote-1.0.28\src\ident_fragment.rs:
+C:\Users\maste\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quote-1.0.28\src\to_tokens.rs:
+C:\Users\maste\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quote-1.0.28\src\runtime.rs:
+C:\Users\maste\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quote-1.0.28\src\spanned.rs:

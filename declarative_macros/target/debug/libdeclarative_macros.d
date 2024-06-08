@@ -1,0 +1,1 @@
+C:\Users\maste\OneDrive\Documents\School\Year\ 3\ S1\Operating\ Systems\declarative_macros\target\debug\libdeclarative_macros.rlib: C:\Users\maste\OneDrive\Documents\School\Year\ 3\ S1\Operating\ Systems\declarative_macros\src\lib.rs
